@@ -9,5 +9,5 @@ Then same procedure done for Codex to install, went to extension in cursor downl
 ## Tools installed in the process - Cursor IDE, Cloude Code Extension, Codex Extension, Github desktop.
 
 ## Issue i ran into were
-### 1. Was not able to open Cloude Code in cursor first so went for the keyboard shortcut to open it and same for the Codex as well.
-### 2. Didn't know much about github so downloaded github desktop clonned then do the changes and commited changes through it.
+1. Was not able to open Cloude Code in cursor first so went for the keyboard shortcut to open it and same for the Codex as well.
+2. Didn't know much about github so downloaded github desktop clonned then do the changes and commited changes through it.
